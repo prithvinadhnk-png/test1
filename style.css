@@ -1,0 +1,11 @@
+.navbar-toggler-icon{
+   filter: invert(1);
+}
+
+a{
+    line-height: 1.2rem !important;
+}
+body {
+  overflow-x: hidden;
+}
+
